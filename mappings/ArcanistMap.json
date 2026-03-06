@@ -143,6 +143,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/300502_nike",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/300501_nike_s"
+      },
+      {
+        "id": 300503,
+        "name": "“波顿的梦”",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "“波顿的梦”",
+        "characterSkinNameEng": "\"Bottom's Dream\"",
+        "skinDescription": "为着夏夜一梦，他将心裁剪成玫瑰。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_300503_nkbd",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/300501_nike_s"
       }
     ]
   },
@@ -3890,6 +3902,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a5_309803_lsp",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/309803_lsp",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a5_309803_lsp_s"
+      },
+      {
+        "id": 309804,
+        "name": "冷襁褓",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "冷襁褓",
+        "characterSkinNameEng": "Cold Cradle",
+        "skinDescription": "在隐秘处，母亲哼着歌谣，抚平一颗心脏被穿透后的恓惶。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_309804_lsp",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/309804_lsp",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a1_309801_lsp_s"
       }
     ]
   },
@@ -4135,7 +4159,7 @@
         "skinDescription": "钗影摇金柳，只待春燕斜。",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a4_310404_ddg",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/310404_ddg",
-        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a3_310401_dudugu_s"
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a3_310401_ddg_s"
       }
     ]
   },
@@ -4607,6 +4631,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_311703_kphh",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311703_kphh",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_311701_kphh_s"
+      },
+      {
+        "id": 311704,
+        "name": "玻璃乌托邦",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "玻璃乌托邦",
+        "characterSkinNameEng": "A Utopia in Painted Glass",
+        "skinDescription": "幼小的理想安放在一汪蓝颜料中。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_311704_kphh",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311704_kphh",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_311704_kphh_s"
       }
     ]
   },
@@ -5051,6 +5087,18 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_313202_gsn",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/313202_gsn",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a1_313201_gsn_s"
+      },
+      {
+        "id": 313203,
+        "name": "将哀啼也燃尽",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "将哀啼也燃尽",
+        "characterSkinNameEng": "Burning Away Tears",
+        "skinDescription": "啼哭、悲鸣、将落未落的泪、向生所伸出的手……一切已无须语言的赘述。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313203_gsn",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/313203_gsn",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313203_gsn_s"
       }
     ]
   },
@@ -5282,6 +5330,105 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a4_313802_lcj",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a4_313801_lcj_s"
+      }
+    ]
+  },
+  {
+    "id": 3139,
+    "name": "洛伦兹蝴蝶",
+    "nameEng": "Lorentz Butterfly",
+    "roleBirthday": "9/19",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3139.png",
+    "live2d": [
+      {
+        "id": 313901,
+        "name": "洛伦兹蝴蝶",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "为逻辑的链条，创造一节小小的脱轨。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313901_llzhd",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/313901_llzhd",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313901_llzhd_s"
+      },
+      {
+        "id": 313902,
+        "name": "洛伦兹蝴蝶",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "雨、混沌、翅震颤",
+        "characterSkinNameEng": "Rain, Chaos and Fluttering",
+        "skinDescription": "世界本身即为无序的综合。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313902_llzhd",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/313902_llzhd",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313901_llzhd_s"
+      }
+    ]
+  },
+  {
+    "id": 3142,
+    "name": "拉莫纳",
+    "nameEng": "Ramona",
+    "roleBirthday": "4/13",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3142.png",
+    "live2d": [
+      {
+        "id": 314201,
+        "name": "拉莫纳",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "她懂得保持工作新鲜感的诀窍。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_314201_lmn",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314201_lmn",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_314201_lmn_s"
+      },
+      {
+        "id": 314202,
+        "name": "拉莫纳",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "灵与花之间",
+        "characterSkinNameEng": "Between Spirits and Blossoms",
+        "skinDescription": "不可听的，不可视的，都在走向她。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_314202_lmn",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/314202_lmn",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_314201_lmn_s"
+      }
+    ]
+  },
+  {
+    "id": 3136,
+    "name": "《湖边的女人》",
+    "nameEng": "Lady by the Lake",
+    "roleBirthday": "4/7",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3136.png",
+    "live2d": [
+      {
+        "id": 313601,
+        "name": "《湖边的女人》",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "她仅想有一个并不孤寂的房间。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313601_hbdnr",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313601_hbdnr_s"
+      },
+      {
+        "id": 313602,
+        "name": "《湖边的女人》",
+        "nameEng": "",
+        "des": "",
+        "characterSkin": "一个春日的记忆",
+        "characterSkinNameEng": "Memories of Spring",
+        "skinDescription": "当湖仅仅是湖，当她仅需做她自己。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313602_hbdnr",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_313601_hbdnr_s"
       }
     ]
   }

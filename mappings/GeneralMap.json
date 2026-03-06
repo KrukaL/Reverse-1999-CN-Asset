@@ -4918,5 +4918,93 @@
     "des": "",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/670107_jjhjl",
     "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670107.png"
+  },
+  {
+    "id": 620163,
+    "name": "沙漠蜥蜴",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_620163_smxy",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/620163.png"
+  },
+  {
+    "id": 630227,
+    "name": "老鼠",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_630227_ls",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630227.png"
+  },
+  {
+    "id": 640154,
+    "name": "墨西哥黑帮",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_640154_mxghb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640154.png"
+  },
+  {
+    "id": 640155,
+    "name": "巡逻者",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_640155_xlz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640155.png"
+  },
+  {
+    "id": 640405,
+    "name": "穆列尔",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_640405_mle",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640405.png"
+  },
+  {
+    "id": 6404051,
+    "name": "穆列尔（二阶段）",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_640405_mle",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/6404051.png"
+  },
+  {
+    "id": 670157,
+    "name": "渡鸦使魔",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_670157_dysm",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670157.png"
+  },
+  {
+    "id": 670159,
+    "name": "穆列尔蝴蝶1",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_670159_mlehd",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670159.png"
+  },
+  {
+    "id": 670161,
+    "name": "穆列尔蜜蜂1",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_670161_mlemf",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670161.png"
+  },
+  {
+    "id": 670165,
+    "name": "穆列尔蝴蝶2",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_670165_mlehd2",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670165.png"
+  },
+  {
+    "id": 670168,
+    "name": "穆列尔蜜蜂2",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a5_670168_mlemf2",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670168.png"
   }
 ]

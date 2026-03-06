@@ -4470,5 +4470,165 @@
     "spine": "",
     "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a4_523901_chg",
     "desc": "拿刀无腰牌"
+  },
+  {
+    "id": 3501,
+    "name": "洛伦兹蝴蝶",
+    "nameEng": "Lorentz Butterfly",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a5_313901_llzhd",
+    "desc": ""
+  },
+  {
+    "id": 3502,
+    "name": "拉莫纳",
+    "nameEng": "Ramona",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a5_314201_lmn",
+    "desc": ""
+  },
+  {
+    "id": 3503,
+    "name": "《湖边的女人》",
+    "nameEng": "<i>Lady by the Lake</i>",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_313601_hbdnr_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3504,
+    "name": "寂静者",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_645101_lls_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3505,
+    "name": "玛格丽特",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_645201_snhd_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3506,
+    "name": "佩雷斯妈妈",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_645302_ssyj_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3507,
+    "name": "路德维希",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_645501_ldwx_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3508,
+    "name": "穆列尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_641602_mle_p",
+    "alternateSpine": "",
+    "desc": "穆列尔普通版"
+  },
+  {
+    "id": 3509,
+    "name": "穆列尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_641603_mle_p",
+    "alternateSpine": "",
+    "desc": "脸上有颜料版"
+  },
+  {
+    "id": 3510,
+    "name": "穆列尔",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_641604_mle_p",
+    "alternateSpine": "",
+    "desc": "衣服无颜料版"
+  },
+  {
+    "id": 3511,
+    "name": "百夫长",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_645402_zzbfz_p",
+    "alternateSpine": "",
+    "desc": "百夫长站姿"
+  },
+  {
+    "id": 3512,
+    "name": "野木蓝",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_645601_yml_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3513,
+    "name": "拉莫纳",
+    "nameEng": "Ramona",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a5_314202_lmn",
+    "desc": "拉莫纳进阶"
+  },
+  {
+    "id": 3514,
+    "name": "芮妮",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_647902_rn_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3515,
+    "name": "黑鹮",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v2a5_631401_zyrhh_p",
+    "alternateSpine": "",
+    "desc": "黑鹮调位置"
+  },
+  {
+    "id": 3516,
+    "name": "黑墙",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_648602_hq_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3517,
+    "name": "洛伦兹蝴蝶",
+    "nameEng": "Lorentz Butterfly",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a5_313902_llzhd",
+    "desc": "蝴蝶进阶"
+  },
+  {
+    "id": 3518,
+    "name": "特蕾莎",
+    "nameEng": "",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a5_314201_lmn",
+    "desc": "拉莫纳无拖把版"
+  },
+  {
+    "id": 3519,
+    "name": "《湖边的女人》",
+    "nameEng": "<i>Lady by the Lake</i>",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_313602_hbdnr_p",
+    "alternateSpine": "",
+    "desc": "进阶"
+  },
+  {
+    "id": 3520,
+    "name": "百夫长",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/303201_baifuzhang_p",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/Assets/ZResourcesLib/rolesstory/rolesprefab/303201_baifuzhang_p",
+    "desc": "百夫长坐姿"
   }
 ]
