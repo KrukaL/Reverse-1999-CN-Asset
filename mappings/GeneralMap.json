@@ -5165,7 +5165,7 @@
     "nameEng": "",
     "des": "",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630136_sxqjs",
-    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630137.png"
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630136.png"
   },
   {
     "id": 670410,
@@ -5190,5 +5190,93 @@
     "des": "",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a7_630138_hdchp",
     "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630138.png"
+  },
+  {
+    "id": 620164,
+    "name": "工地魔精",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_620164_gdmj",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/620164.png"
+  },
+  {
+    "id": 620165,
+    "name": "异变回声石",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_620165_ybhss",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/620165.png"
+  },
+  {
+    "id": 620232,
+    "name": "异变穹顶模型",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_620232_ybqdmx",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/620232.png"
+  },
+  {
+    "id": 620316,
+    "name": "抽象建筑结构",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_620316_cxjzjg",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/620316.png"
+  },
+  {
+    "id": 630137,
+    "name": "异变小洪扎",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_630137_ybxhz",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/630137.png"
+  },
+  {
+    "id": 640159,
+    "name": "伊里内伊",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_640159_ylny",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640159.png"
+  },
+  {
+    "id": 670411,
+    "name": "混凝土巨兽",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_670411_hntjs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670411.png"
+  },
+  {
+    "id": 670412,
+    "name": "混凝土巨兽二阶段",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a8_670412_hntjsejd",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670412.png"
+  },
+  {
+    "id": 6704041,
+    "name": "木头怪物2",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a6_670404_mtgw2",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670404.png"
+  },
+  {
+    "id": 6704042,
+    "name": "木头怪物2",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a6_670404_mtgw2",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670404.png"
+  },
+  {
+    "id": 6704043,
+    "name": "木头怪物2",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a6_670404_mtgw2",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670404.png"
   }
 ]

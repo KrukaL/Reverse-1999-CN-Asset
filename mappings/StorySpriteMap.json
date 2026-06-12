@@ -2938,7 +2938,7 @@
   {
     "id": 2412,
     "name": "乌尔里希",
-    "nameEng": "",
+    "nameEng": "Ulrich",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v1a9_515601_welx_p",
     "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v2a4_310701_welx",
     "desc": ""
@@ -5038,5 +5038,117 @@
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a5_641604_mle_p",
     "alternateSpine": "",
     "desc": "重塑之手蜂鸟"
+  },
+  {
+    "id": 3801,
+    "name": "回声谣",
+    "nameEng": "Everecho",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a8_314501_hsy",
+    "desc": ""
+  },
+  {
+    "id": 3802,
+    "name": "奠基石",
+    "nameEng": "Cornerstone",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a8_314001_djs",
+    "desc": ""
+  },
+  {
+    "id": 3803,
+    "name": "奥尔加",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_649102_aej_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3804,
+    "name": "肯纳",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_650102_alk_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3805,
+    "name": "蓝图",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_650202_lt_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3806,
+    "name": "卢齐安",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_649003_adla_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3807,
+    "name": "伊里内伊",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_649403_ylny_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3808,
+    "name": "小洪扎",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_649302_xhz_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3809,
+    "name": "亚肖",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_649202_md_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3810,
+    "name": "汉娜",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a7_653602_ls_p",
+    "alternateSpine": "",
+    "desc": "加特殊效果处理"
+  },
+  {
+    "id": 3811,
+    "name": "回声谣",
+    "nameEng": "Everecho",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a8_314501_hsy",
+    "desc": "去掉手偶版本"
+  },
+  {
+    "id": 3812,
+    "name": "回声谣",
+    "nameEng": "Everecho",
+    "spine": "",
+    "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/v3a8_314502_hsy",
+    "desc": "回声谣进阶"
+  },
+  {
+    "id": 3813,
+    "name": "木偶师",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_653003_mos_p",
+    "alternateSpine": "",
+    "desc": ""
+  },
+  {
+    "id": 3814,
+    "name": "卢齐安",
+    "nameEng": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/rolesstory/rolesprefab/v3a8_654703_adlaylb_p",
+    "alternateSpine": "",
+    "desc": "幽灵版本"
   }
 ]
