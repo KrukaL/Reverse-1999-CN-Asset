@@ -4,7 +4,6 @@
   "FileReferences": {
     "Moc": "v3a6_314301_yami.moc3",
     "Textures": [
-      "textures/314301_yami_00_bloom.png",
       "textures/314301_yami_00.png"
     ],
     "DisplayInfo": null,

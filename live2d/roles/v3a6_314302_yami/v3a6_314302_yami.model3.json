@@ -4,9 +4,7 @@
   "FileReferences": {
     "Moc": "v3a6_314302_yami.moc3",
     "Textures": [
-      "textures/314302_yami_00_bloom.png",
       "textures/314302_yami_00.png",
-      "textures/314302_yami_01_bloom.png",
       "textures/314302_yami_01.png",
       "textures/mask_025_ld.png",
       "textures/mask_230_hl.png",
